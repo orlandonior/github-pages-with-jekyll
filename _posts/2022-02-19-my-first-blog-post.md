@@ -1,5 +1,6 @@
-title: "Bienvenida a mi blog"
-date: 2019-01-20
-
+---
+title: "TU TÍTULO"
+date: AAAA-MM-DD
+---
 # PUEDE SER PA?
 No estaba muerto, estaba de parranda.
